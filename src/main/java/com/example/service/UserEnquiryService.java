@@ -23,6 +23,7 @@ public class UserEnquiryService {
         userData.put("101", new UserEnquiryResponse("Anil", "Guthula", "Registered"));
         userData.put("102", new UserEnquiryResponse("Abhishek", "Gadde", "Not Registered"));
         userData.put("103", new UserEnquiryResponse("Surya", "Gidthuri", "Registered"));
+        userData.put("104", new UserEnquiryResponse("Vivek", "G", "Registered"));
         
     }
 
